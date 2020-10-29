@@ -2,3 +2,4 @@
 *.toc
 *.log
 *.pdf
+.ipynb_checkpoints/*
